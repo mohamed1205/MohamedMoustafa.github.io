@@ -1,0 +1,15 @@
+title: Mohamed Moustafa portfolio
+description: Data Engineer skilled in SQL, PL/SQL, Python, ETL, Power BI
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mohamed1205.github.io/MohamedMoustafa.github.io/" # the base hostname & protocol for your site
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
