@@ -264,7 +264,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  faraday
+  faraday (~> 2.0)
   github-pages
   jekyll-theme-primer
 
